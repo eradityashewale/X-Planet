@@ -1,0 +1,3907 @@
+(node:141390) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0mPOST /users/login [32m200[0m 636.405 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 299.176 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 447.658 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1180.750 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.209 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.537 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.635 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1190.184 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1182.823 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.210 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.132 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.375 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.627 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.290 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.416 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.155 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.352 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.804 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.981 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.569 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.268 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.554 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.352 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.588 ms - 383[0m
+[0mGET /users/getSkin [32m200[0m 442.669 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1182.199 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.303 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.776 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.839 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.592 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.089 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.820 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.022 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.896 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.358 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.350 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.834 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.663 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1182.436 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.792 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.674 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.296 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.519 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.305 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.613 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.127 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.459 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.788 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.380 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.007 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.911 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.675 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.465 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.033 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.649 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.617 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.584 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.660 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.429 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1179.201 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.184 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.701 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1180.888 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1179.499 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1187.020 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.170 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1179.306 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1179.750 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1180.411 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.022 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1184.465 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1179.093 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1208.896 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1179.058 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1173.068 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1172.443 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1179.665 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.986 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1173.521 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1171.413 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1176.596 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1174.404 ms - 385[0m
+[0mPOST /users/login [32m200[0m 604.023 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.300 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 440.546 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1169.594 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1181.352 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.726 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1239.242 ms - 383[0m
+[0mGET /tasks [32m200[0m 443.396 ms - 800[0m
+[0mGET /streak [32m200[0m 441.833 ms - 663[0m
+[0mPOST /users/taps [32m200[0m 1175.613 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.238 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.677 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.992 ms - 383[0m
+[0mPOST /streak/update [0m-[0m - ms - -[0m
+[0mPOST /streak/update [0m-[0m - ms - -[0m
+[0mPOST /users/login [32m200[0m 595.917 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.766 ms - 48[0m
+[0mPOST /users/login [32m200[0m 148.291 ms - 589[0m
+[0mGET /users/getBoostLevel [32m200[0m 441.170 ms - 2460[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.346 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.013 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1171.280 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1195.400 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1171.771 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1179.440 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1168.608 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1183.339 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1172.644 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1178.551 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1170.395 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1182.138 ms - 405[0m
+[0mPOST /users/taps [32m200[0m 1171.531 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1184.273 ms - 405[0m
+[0mPOST /leaderboard [32m200[0m 737.931 ms - 268[0m
+[0mPOST /users/taps [32m200[0m 1175.171 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1174.987 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.276 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.097 ms - 381[0m
+[0mPOST /leaderboard [32m200[0m 732.224 ms - 268[0m
+[0mPOST /users/taps [32m200[0m 1174.663 ms - 381[0m
+[0mGET /tasks [36m304[0m 440.007 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1170.157 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1168.627 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1170.010 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1169.781 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1189.829 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 731.282 ms - 267[0m
+[0mPOST /users/login [32m200[0m 601.041 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.898 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 440.612 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1172.986 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1167.440 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1168.803 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1169.395 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1179.783 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1184.710 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1171.740 ms - 382[0m
+[0mGET /tasks [32m200[0m 439.292 ms - 800[0m
+[0mPOST /users/taps [32m200[0m 1175.633 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 731.541 ms - 315[0m
+[0mPOST /users/taps [32m200[0m 1169.812 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.197 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.345 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.859 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.968 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.625 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.249 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.519 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1198.995 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.348 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.333 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1182.464 ms - 381[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.292 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1174.569 ms - 381[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.934 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.155 ms - -[0m
+[0mGET /streak [32m200[0m 439.582 ms - 663[0m
+[0mGET /tasks [36m304[0m 439.568 ms - -[0m
+[0mGET /streak [36m304[0m 452.325 ms - -[0m
+[0mPOST /streak/update [32m200[0m 1324.088 ms - 403[0m
+[0mGET /tasks [36m304[0m 438.850 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 731.297 ms - 319[0m
+[0mGET /users/getSkin [32m200[0m 440.879 ms - 441[0m
+[0mPOST /users/login [32m200[0m 148.028 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.124 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.953 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1174.323 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.218 ms - 382[0m
+[0mGET /users/getPlanet [32m200[0m 443.277 ms - 465[0m
+[0mPOST /users/taps [32m200[0m 1169.926 ms - 382[0m
+[0mGET /tasks [36m304[0m 439.966 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1171.884 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.162 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.330 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1182.864 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1171.620 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.609 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.268 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1170.553 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.600 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1167.621 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.338 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.849 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.670 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.833 ms - 382[0m
+[0mGET /users/getSkin [36m304[0m 439.621 ms - -[0m
+[0mGET /users/getPlanet [36m304[0m 439.794 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1168.436 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.152 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1170.978 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.395 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.110 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.997 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.667 ms - 382[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.143 ms - 41[0m
+[0mGET /tasks [36m304[0m 442.603 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 734.277 ms - 319[0m
+[0mPOST /users/taps [32m200[0m 1171.626 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 730.521 ms - 319[0m
+[0mPOST /users/taps [32m200[0m 1175.595 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.292 ms - 382[0m
+[0mGET /tasks [36m304[0m 439.393 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 467.206 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1188.027 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.527 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.173 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.151 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.343 ms - 383[0m
+[0mPOST /users/login [32m200[0m 147.542 ms - 586[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.829 ms - 48[0m
+[0mPOST /users/taps [32m200[0m 1178.883 ms - 383[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.016 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1182.779 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.608 ms - 404[0m
+[0mPOST /users/taps [32m200[0m 1174.824 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1183.699 ms - 404[0m
+[0mPOST /users/taps [32m200[0m 1173.953 ms - 381[0m
+[0mGET /tasks [36m304[0m 440.519 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1177.377 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1170.830 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 734.343 ms - 321[0m
+[0mPOST /users/taps [32m200[0m 1174.039 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1176.597 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.475 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.116 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.359 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.700 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.082 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1182.316 ms - 382[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.070 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1182.397 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1175.241 ms - 381[0m
+[0mGET /tasks [36m304[0m 440.329 ms - -[0m
+[0mGET /streak [32m200[0m 441.045 ms - 661[0m
+[0mPOST /users/taps [32m200[0m 1175.345 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1175.639 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.947 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.461 ms - 382[0m
+[0mGET /tasks [36m304[0m 440.147 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1202.341 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 731.339 ms - 321[0m
+[0mPOST /users/taps [32m200[0m 1172.799 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 730.240 ms - 321[0m
+[0mPOST /users/taps [32m200[0m 1174.237 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.013 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1171.575 ms - 382[0m
+[0mGET /tasks [36m304[0m 440.324 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1172.733 ms - 382[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.161 ms - 41[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.597 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1185.649 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.338 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.002 ms - 381[0m
+[0mPOST /leaderboard [32m200[0m 732.692 ms - 321[0m
+[0mPOST /users/taps [32m200[0m 1177.772 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1171.684 ms - 381[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.801 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1174.410 ms - 382[0m
+[0mGET /users/getSkin [36m304[0m 440.507 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1171.547 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1170.952 ms - 382[0m
+[0mGET /users/getPlanet [36m304[0m 440.167 ms - -[0m
+[0mGET /users/getSkin [36m304[0m 440.685 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.854 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.502 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1169.098 ms - 382[0m
+[0mPOST /users/taps [0m-[0m - ms - -[0m
+[0mPOST /users/login [32m200[0m 147.663 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.997 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.913 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.912 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1172.130 ms - 383[0m
+[0mGET /tasks [32m200[0m 439.208 ms - 800[0m
+[0mPOST /users/taps [32m200[0m 1170.870 ms - 383[0m
+[0mGET /streak [32m200[0m 441.274 ms - 663[0m
+[0mPOST /users/taps [32m200[0m 1171.748 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.987 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.602 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.365 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.812 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.414 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.348 ms - 383[0m
+[0mPOST /streak/update [32m200[0m 1326.452 ms - 405[0m
+[0mPOST /users/taps [32m200[0m 1171.157 ms - 405[0m
+[0mPOST /users/taps [32m200[0m 1178.469 ms - 405[0m
+[0mGET /tasks [36m304[0m 441.423 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1172.564 ms - 405[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.118 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.793 ms - -[0m
+[0mGET /streak [32m200[0m 440.054 ms - 661[0m
+[0mGET /tasks [36m304[0m 440.498 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.619 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.775 ms - -[0m
+[0mGET /streak [36m304[0m 448.513 ms - -[0m
+[0mPOST /users/login [32m200[0m 593.874 ms - 565[0m
+[0mGET /tasks [36m304[0m 440.973 ms - -[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 1176.748 ms - 391[0m
+[0mGET /users/getBoostLevel [36m304[0m 442.019 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1170.515 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1179.113 ms - 391[0m
+[0mPOST /tasks/verifyTelegramJoin [32m200[0m 1330.805 ms - 421[0m
+[0mGET /tasks [32m200[0m 439.011 ms - 799[0m
+[0mPOST /users/taps [32m200[0m 1168.647 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1168.555 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1179.587 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1178.312 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1179.632 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1178.485 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1179.831 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1177.879 ms - 393[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.662 ms - 70[0m
+[0mPOST /users/taps [32m200[0m 1179.547 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1180.740 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1179.635 ms - 393[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.890 ms - 71[0m
+[0mGET /tasks [36m304[0m 441.858 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1191.059 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1180.421 ms - 393[0m
+[0mPOST /users/taps [32m200[0m 1198.814 ms - 391[0m
+[0mGET /tasks [36m304[0m 440.657 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1172.039 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 730.915 ms - 374[0m
+[0mPOST /users/taps [32m200[0m 1170.803 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1169.334 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1172.505 ms - 391[0m
+[0mPOST /tasks/verifyYoutubeJoin [32m200[0m 1336.196 ms - 438[0m
+[0mGET /tasks [32m200[0m 440.739 ms - 798[0m
+[0mPOST /users/taps [32m200[0m 1177.731 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1183.229 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1172.421 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1171.834 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1172.227 ms - 391[0m
+[0mGET /tasks [36m304[0m 450.534 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1171.969 ms - 391[0m
+[0mPOST /tasks/verifyInstagramJoin [32m200[0m 1331.295 ms - 457[0m
+[0mGET /streak [32m200[0m 440.025 ms - 663[0m
+[0mGET /tasks [32m200[0m 439.548 ms - 797[0m
+[0mPOST /users/taps [32m200[0m 1170.395 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1171.866 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1171.823 ms - 391[0m
+[0mGET /tasks [36m304[0m 439.024 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.585 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1170.379 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1172.894 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1172.294 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1179.862 ms - 391[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.649 ms - 41[0m
+[0mGET /tasks [36m304[0m 440.146 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1168.459 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 732.472 ms - 374[0m
+[0mGET /tasks [36m304[0m 439.586 ms - -[0m
+[0mGET /streak [36m304[0m 442.130 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1167.510 ms - 391[0m
+[0mPOST /streak/update [32m200[0m 1325.464 ms - 413[0m
+err { status: 403, message: 'You can only claim once per day.' }
+[0mPOST /streak/update [33m403[0m 297.166 ms - 78[0m
+[0mPOST /users/taps [32m200[0m 1170.829 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1177.004 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.282 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.036 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.898 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1184.964 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.285 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.160 ms - 413[0m
+[0mGET /tasks [36m304[0m 439.578 ms - -[0m
+[0mGET /streak [32m200[0m 440.241 ms - 661[0m
+[0mPOST /users/taps [32m200[0m 1171.912 ms - 413[0m
+[0mGET /tasks [36m304[0m 442.259 ms - -[0m
+[0mGET /streak [36m304[0m 440.436 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1166.821 ms - 413[0m
+[0mGET /tasks [36m304[0m 438.733 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1168.531 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.837 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1182.314 ms - 414[0m
+[0mPOST /leaderboard [32m200[0m 731.494 ms - 374[0m
+[0mPOST /users/taps [32m200[0m 1167.499 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1169.294 ms - 414[0m
+[0mGET /tasks [36m304[0m 439.824 ms - -[0m
+[0mGET /streak [36m304[0m 440.355 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1169.203 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.512 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1186.799 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.866 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.348 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1167.980 ms - 414[0m
+[0mPOST /tasks/verifyTwitterJoin [32m200[0m 1327.262 ms - 498[0m
+[0mPOST /leaderboard [32m200[0m 730.305 ms - 374[0m
+[0mGET /tasks [32m200[0m 439.571 ms - 796[0m
+[0mPOST /users/taps [32m200[0m 1172.075 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.519 ms - 414[0m
+[0mPOST /leaderboard [32m200[0m 734.113 ms - 374[0m
+[0mPOST /users/taps [32m200[0m 1171.133 ms - 414[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.626 ms - 71[0m
+[0mGET /tasks [36m304[0m 440.205 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1174.450 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1170.838 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.258 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.202 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.854 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.357 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.763 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1194.341 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.621 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.234 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.231 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.019 ms - 414[0m
+[0mPOST /leaderboard [32m200[0m 733.895 ms - 374[0m
+[0mPOST /users/taps [32m200[0m 1171.717 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.713 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.063 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.467 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.220 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1190.284 ms - 415[0m
+[0mPOST /users/taps [32m200[0m 1185.959 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.981 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.321 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.518 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.623 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1183.977 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.296 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.726 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1185.666 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.897 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.346 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.249 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1183.205 ms - 414[0m
+[0mPOST /users/boostLevel [32m200[0m 1347.446 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.369 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.960 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.552 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.681 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1180.396 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1182.459 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.354 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.270 ms - 413[0m
+[0mGET /users/getSkin [32m200[0m 442.122 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1170.786 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1177.046 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.997 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.916 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.276 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.406 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.420 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1183.671 ms - 413[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.317 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1181.752 ms - 413[0m
+[0mGET /tasks [36m304[0m 441.180 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1174.745 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.674 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1184.891 ms - 413[0m
+[0mPOST /leaderboard [32m200[0m 732.300 ms - 374[0m
+[0mPOST /users/taps [32m200[0m 1171.383 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.550 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.312 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1180.448 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1180.571 ms - 413[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.428 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1170.605 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.458 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.860 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.964 ms - 414[0m
+[0mGET /users/getSkin [36m304[0m 439.716 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1179.685 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.668 ms - 414[0m
+[0mGET /users/getSkin [36m304[0m 440.655 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1182.125 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.370 ms - 414[0m
+[0mGET /users/getPlanet [32m200[0m 439.674 ms - 465[0m
+[0mPOST /users/taps [32m200[0m 1171.391 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.287 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.872 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.126 ms - 414[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.990 ms - 41[0m
+[0mGET /tasks [36m304[0m 441.297 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1172.072 ms - 414[0m
+[0mPOST /users/login [32m200[0m 148.077 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.450 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 440.885 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1179.109 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.783 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.279 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1183.274 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.088 ms - 497[0m
+[0mPOST /leaderboard [32m200[0m 732.075 ms - 374[0m
+[0mPOST /users/taps [32m200[0m 1174.357 ms - 497[0m
+[0mPOST /leaderboard [32m200[0m 731.044 ms - 374[0m
+[0mGET /tasks [36m304[0m 440.255 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 731.678 ms - 374[0m
+[0mGET /tasks [36m304[0m 439.482 ms - -[0m
+[0mPOST /users/login [32m200[0m 148.515 ms - 680[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.067 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.683 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1182.232 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.849 ms - 499[0m
+[0mPOST /users/login [32m200[0m 148.329 ms - 586[0m
+[0mPOST /users/taps [32m200[0m 1173.254 ms - 499[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 1183.772 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1177.223 ms - 499[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.103 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1188.842 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.015 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1186.605 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.237 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1183.462 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.735 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.785 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.702 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1184.456 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1180.266 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 732.478 ms - 373[0m
+[0mPOST /users/taps [32m200[0m 1179.854 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1177.465 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.285 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1179.351 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1189.012 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1176.586 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.835 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1176.499 ms - 499[0m
+[0mGET /users/getSkin [36m304[0m 440.939 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1185.693 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.961 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.109 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1180.785 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.893 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1178.457 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.270 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.991 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.054 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1177.801 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.382 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.776 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 445.551 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1175.819 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.007 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1179.885 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.981 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1180.286 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.029 ms - 413[0m
+[0mGET /tasks [36m304[0m 440.813 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1176.175 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.933 ms - 413[0m
+[0mGET /streak [36m304[0m 440.834 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1176.004 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.760 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.717 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.704 ms - 413[0m
+[0mGET /tasks [36m304[0m 450.531 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1183.875 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.833 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1178.099 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.742 ms - 413[0m
+[0mPOST /leaderboard [32m200[0m 732.901 ms - 373[0m
+[0mPOST /users/taps [32m200[0m 1174.396 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.864 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.476 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.110 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.861 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.378 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1179.611 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1185.535 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.847 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1187.788 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1176.162 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1174.790 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.191 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1177.902 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1175.477 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1177.736 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.079 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.756 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.722 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1188.789 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.763 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.813 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.346 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.645 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.671 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1186.186 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1178.215 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.171 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1177.802 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.006 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.248 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.786 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.247 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.585 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.852 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.465 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.379 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.067 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.590 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.708 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.049 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.633 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.065 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.318 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1178.229 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.176 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.693 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.329 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.597 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.481 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1177.667 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.010 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.044 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.904 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1189.324 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.591 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.143 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1181.571 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.796 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1185.152 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.600 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1182.597 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1179.076 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1191.779 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1185.644 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.544 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.763 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.830 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1176.198 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.662 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.721 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.600 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.675 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1181.917 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.763 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.644 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.009 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.408 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1176.810 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.292 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1174.751 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1185.339 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.599 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.877 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.492 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1180.901 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.797 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.797 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.801 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1178.881 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.805 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.832 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.773 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1183.977 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.161 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.512 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.068 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1180.059 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.754 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.249 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.976 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.013 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.139 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.557 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.179 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.179 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.755 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.692 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.814 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.383 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.363 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.170 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.770 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.804 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.797 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1191.930 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.473 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.237 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.004 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.790 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.711 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.561 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.095 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1178.273 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.978 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.823 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.760 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.675 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.657 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.377 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.201 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.396 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.033 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.852 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.156 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.376 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.924 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1197.838 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.194 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.110 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.347 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.202 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.622 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1185.376 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.488 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.338 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.729 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.856 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.375 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.036 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.996 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.208 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.864 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.554 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1189.377 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1182.231 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1184.744 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1173.406 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1175.505 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1175.814 ms - 413[0m
+[0mGET /tasks [36m304[0m 441.391 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 734.014 ms - 373[0m
+[0mPOST /users/taps [32m200[0m 1175.719 ms - 413[0m
+[0mGET /tasks [36m304[0m 440.394 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1170.253 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.504 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.512 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.313 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.865 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1190.159 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.863 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.697 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.427 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.799 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.695 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.080 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.572 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.176 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.473 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.120 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.705 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.883 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.922 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.580 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.729 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1181.109 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.889 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.044 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.387 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.145 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.467 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.385 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.626 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.370 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1168.756 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.850 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.076 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.047 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.736 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.903 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1174.048 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.844 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.542 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.636 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1180.537 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.199 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.092 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1183.799 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.231 ms - 414[0m
+[0mPOST /users/login [32m200[0m 149.107 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.449 ms - 48[0m
+[0mPOST /users/taps [32m200[0m 1172.051 ms - 414[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.432 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1183.516 ms - 414[0m
+[0mGET /users/getSkin [36m304[0m 440.800 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1176.798 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.522 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1172.969 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.594 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.772 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1178.481 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.840 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1171.119 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.985 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.160 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1173.597 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.307 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1178.355 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.326 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.857 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1179.504 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1169.922 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1183.816 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.271 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.865 ms - 500[0m
+[0mGET /users/getSkin [36m304[0m 439.540 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1169.413 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.393 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.586 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1168.613 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.057 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1172.440 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1172.338 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.981 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.285 ms - 500[0m
+[0mGET /users/getPlanet [36m304[0m 439.634 ms - -[0m
+[0mGET /users/getSkin [36m304[0m 441.204 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1168.706 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1181.364 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1172.336 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1178.384 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.736 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.013 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1192.891 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.421 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1169.875 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1178.429 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1169.936 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1168.123 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1169.946 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1199.262 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.123 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.351 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.371 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.940 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1170.362 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1197.359 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1176.112 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.270 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.259 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1171.354 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.597 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.480 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1184.469 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.221 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.411 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.116 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1174.249 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.947 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.953 ms - 414[0m
+[0mGET /tasks [36m304[0m 441.890 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1171.724 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1184.636 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1183.295 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1170.774 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1174.919 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.181 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.332 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.169 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1169.210 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1177.362 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.269 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1184.811 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.976 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1169.298 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1174.118 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1191.667 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.599 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1181.371 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1170.949 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1181.966 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1172.595 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1176.562 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1172.669 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1168.886 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1176.273 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1181.702 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1180.944 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.055 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.422 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.186 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1170.072 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1170.984 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1178.432 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1166.705 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.769 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.890 ms - 499[0m
+[0mGET /users/getSkin [36m304[0m 438.654 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1170.698 ms - 499[0m
+[0mGET /users/getPlanet [36m304[0m 438.805 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1167.047 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.923 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.078 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.370 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.330 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.824 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1166.911 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.864 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.963 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1166.575 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.276 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.301 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.138 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.796 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.404 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.109 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.520 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.622 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.833 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.390 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.385 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.830 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.700 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.137 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.784 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.503 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.410 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.400 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.594 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.630 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.413 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.245 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1177.561 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1177.526 ms - 413[0m
+[0mPOST /users/login [32m200[0m 606.028 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.843 ms - 48[0m
+[0mPOST /users/taps [32m200[0m 1172.228 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1186.555 ms - 412[0m
+[0mGET /users/getBoostLevel [32m200[0m 440.233 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1176.731 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.472 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1173.035 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1175.993 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.070 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1176.337 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1171.980 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.867 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1173.157 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1173.818 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1178.440 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.353 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1187.203 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.166 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.501 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1180.584 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.310 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1178.767 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1168.998 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1170.796 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.772 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.236 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1175.166 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.191 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1177.272 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.938 ms - 412[0m
+[0mPOST /users/taps [32m200[0m 1174.872 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.209 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.484 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1175.532 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.266 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.344 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.080 ms - 413[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.589 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1176.064 ms - 383[0m
+[0mGET /tasks [32m200[0m 438.285 ms - 800[0m
+[0mPOST /users/taps [32m200[0m 1181.450 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.742 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1178.297 ms - 383[0m
+[0mGET /streak [32m200[0m 439.379 ms - 663[0m
+[0mPOST /users/taps [32m200[0m 1172.953 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.338 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.847 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.382 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.563 ms - 499[0m
+[0mPOST /streak/update [32m200[0m 1329.989 ms - 407[0m
+[0mPOST /users/taps [32m200[0m 1170.390 ms - 413[0m
+[0mGET /tasks [36m304[0m 440.212 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1171.791 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1171.594 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.898 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1176.721 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.800 ms - 413[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.476 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.652 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1177.120 ms - 413[0m
+[0mPOST /leaderboard [32m200[0m 731.524 ms - 424[0m
+[0mPOST /users/taps [32m200[0m 1172.485 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.452 ms - 413[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.827 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1171.711 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.854 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1168.858 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.307 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1180.475 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.496 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.889 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.231 ms - 499[0m
+[0mPOST /users/login [32m200[0m 147.359 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.404 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 439.253 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1170.957 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.026 ms - 140[0m
+[0mPOST /users/taps [32m200[0m 1173.253 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.618 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.910 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.075 ms - 140[0m
+[0mGET /tasks [36m304[0m 439.115 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1169.783 ms - 413[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.739 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1184.410 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.142 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.607 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1169.615 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.785 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1182.602 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1170.402 ms - 413[0m
+[0mPOST /users/taps [32m200[0m 1173.064 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1173.477 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1189.275 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1175.375 ms - 414[0m
+[0mPOST /users/taps [32m200[0m 1174.361 ms - 414[0m
+[0mPOST /users/login [32m200[0m 147.767 ms - 590[0m
+[0mGET /users/getBoostLevel [36m304[0m 438.797 ms - -[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 1192.693 ms - 416[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.122 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1175.049 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.985 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.956 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.283 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.996 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1171.361 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1182.669 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.208 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.809 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1185.516 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1171.978 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.240 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.123 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.792 ms - 416[0m
+[0mGET /tasks [36m304[0m 438.343 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.111 ms - 414[0m
+[0mPOST /leaderboard [32m200[0m 729.284 ms - 424[0m
+[0mPOST /users/taps [32m200[0m 1169.644 ms - 416[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.954 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1171.723 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.379 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.898 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.303 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.468 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1171.589 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.122 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.236 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.872 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.004 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.682 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.384 ms - 416[0m
+[0mPOST /users/login [32m200[0m 148.387 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.222 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.792 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1170.667 ms - 416[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.854 ms - 210[0m
+[0mPOST /users/taps [32m200[0m 1171.052 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1174.635 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1170.146 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.107 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1170.402 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1178.201 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.894 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1197.491 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.694 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1178.790 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1168.911 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1191.922 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.561 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1179.122 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1166.855 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1173.682 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.870 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.413 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.718 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1175.870 ms - 498[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.093 ms - 210[0m
+[0mPOST /users/taps [32m200[0m 1170.440 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.874 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.942 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.938 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1172.426 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.388 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.042 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.541 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.886 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1167.949 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.305 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1175.945 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.781 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.362 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.488 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.558 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.701 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.063 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.484 ms - 416[0m
+[0mGET /tasks [36m304[0m 439.203 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1168.901 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.181 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1174.813 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1167.992 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.284 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1172.966 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.778 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.516 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.431 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.733 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1167.956 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.331 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1173.137 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.025 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.465 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.516 ms - 416[0m
+[0mGET /streak [32m200[0m 438.295 ms - 661[0m
+[0mPOST /users/taps [32m200[0m 1169.511 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.794 ms - 416[0m
+[0mGET /tasks [36m304[0m 450.396 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1183.607 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.635 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.897 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.042 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.245 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.170 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.767 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.468 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.549 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.655 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.189 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.131 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1167.187 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1167.409 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.459 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.429 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1165.807 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.418 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1171.461 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.424 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1166.747 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.638 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1167.347 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.896 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1167.962 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1165.986 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.892 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1167.584 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.779 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1170.137 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1173.542 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1166.946 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.522 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.163 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1166.604 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1167.104 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.232 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1169.121 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1180.585 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.047 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1169.116 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1168.896 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1167.895 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.217 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.625 ms - 416[0m
+[0mPOST /users/taps [32m200[0m 1173.648 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.824 ms - 498[0m
+[0mPOST /tasks/verifyYoutubeJoin [32m200[0m 1338.159 ms - 433[0m
+[0mGET /tasks [32m200[0m 438.141 ms - 799[0m
+[0mPOST /users/taps [32m200[0m 1167.034 ms - 498[0m
+[0mPOST /leaderboard [32m200[0m 730.376 ms - 427[0m
+[0mPOST /users/taps [32m200[0m 1169.216 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.923 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1168.843 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.344 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.840 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.660 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.151 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1181.350 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.915 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1183.119 ms - 499[0m
+[0mGET /tasks [36m304[0m 440.052 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.859 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 731.846 ms - 427[0m
+[0mPOST /users/taps [32m200[0m 1174.563 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1183.740 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1180.724 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.574 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1171.967 ms - 498[0m
+[0mPOST /leaderboard [32m200[0m 729.223 ms - 427[0m
+[0mPOST /users/taps [32m200[0m 1170.853 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.949 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.161 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1172.598 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1172.115 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.726 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.743 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.418 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.099 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.565 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.717 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.966 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.227 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.457 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.895 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.387 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.058 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.731 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.288 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.903 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.790 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.047 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.745 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.139 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1180.193 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 730.390 ms - 425[0m
+[0mPOST /users/taps [32m200[0m 1174.117 ms - 499[0m
+[0mGET /tasks [36m304[0m 438.955 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.873 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1173.195 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.048 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.251 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.632 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.326 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.893 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.631 ms - 499[0m
+[0mGET /users/getSkin [32m200[0m 440.407 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1175.550 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.401 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.499 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.395 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.343 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.973 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.935 ms - 499[0m
+[0mGET /users/getPlanet [32m200[0m 439.358 ms - 465[0m
+[0mPOST /users/taps [32m200[0m 1172.465 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.704 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.936 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.286 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.956 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.741 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.546 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.427 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.079 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.927 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 735.288 ms - 427[0m
+[0mGET /tasks [36m304[0m 439.060 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.075 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1171.474 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.371 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1180.826 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.519 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.933 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.241 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.474 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.173 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.907 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.542 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.110 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.167 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.779 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.027 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.672 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.204 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.726 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1195.875 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.690 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.134 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.659 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1169.837 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.107 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.635 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.257 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.405 ms - 499[0m
+[0mGET /users/getSkin [36m304[0m 440.366 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1175.839 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.462 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.326 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1168.663 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1166.978 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1166.575 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1166.999 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1168.548 ms - 499[0m
+[0mGET /users/getPlanet [36m304[0m 440.341 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1168.021 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1168.438 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.347 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1167.222 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.949 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.623 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.460 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.716 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1186.535 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1170.257 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1170.800 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.413 ms - 498[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.042 ms - 211[0m
+[0mGET /tasks [36m304[0m 438.620 ms - -[0m
+[0mGET /tasks [36m304[0m 438.780 ms - -[0m
+[0mGET /streak [36m304[0m 438.647 ms - -[0m
+[0mGET /tasks [36m304[0m 440.538 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 730.099 ms - 426[0m
+[0mGET /tasks [36m304[0m 439.238 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 730.560 ms - 426[0m
+[0mPOST /leaderboard [32m200[0m 730.031 ms - 426[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.776 ms - 211[0m
+[0mGET /tasks [36m304[0m 438.278 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.356 ms - 211[0m
+[0mPOST /leaderboard [32m200[0m 729.220 ms - 426[0m
+[0mPOST /users/login [32m200[0m 602.206 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 1178.078 ms - 390[0m
+[0mGET /users/getBoostLevel [32m200[0m 439.533 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1178.528 ms - 391[0m
+[0mGET /users/getSkin [32m200[0m 451.649 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1180.618 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1174.758 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 730.801 ms - 471[0m
+[0mPOST /users/taps [32m200[0m 1171.785 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 731.383 ms - 471[0m
+[0mPOST /users/taps [32m200[0m 1169.720 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 729.412 ms - 471[0m
+[0mPOST /users/taps [32m200[0m 1168.634 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1173.831 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1168.827 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 730.244 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 731.361 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 732.122 ms - 471[0m
+[0mPOST /users/taps [32m200[0m 1167.396 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 724.939 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 730.609 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 729.206 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 725.101 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 731.414 ms - 471[0m
+[0mPOST /leaderboard [32m200[0m 729.743 ms - 471[0m
+[0mPOST /users/taps [32m200[0m 1170.557 ms - 391[0m
+[0mGET /tasks [32m200[0m 439.352 ms - 800[0m
+[0mPOST /users/taps [32m200[0m 1172.006 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1172.747 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1171.015 ms - 391[0m
+[0mPOST /leaderboard [32m200[0m 734.742 ms - 471[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.793 ms - 41[0m
+[0mPOST /leaderboard [32m200[0m 738.643 ms - 474[0m
+[0mGET /tasks [36m304[0m 440.281 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.145 ms - 278[0m
+[0mPOST /leaderboard [32m200[0m 732.371 ms - 474[0m
+[0mPOST /users/login [32m200[0m 603.648 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 1190.757 ms - 391[0m
+[0mGET /users/getBoostLevel [32m200[0m 440.326 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1172.194 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1170.014 ms - 391[0m
+[0mPOST /users/taps [32m200[0m 1180.927 ms - 392[0m
+[0mGET /users/getSkin [32m200[0m 440.332 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1180.679 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1172.178 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.871 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1173.845 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1171.465 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1173.098 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1171.827 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.188 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.371 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1171.148 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1179.241 ms - 392[0m
+[0mGET /users/getPlanet [32m200[0m 441.598 ms - 465[0m
+[0mPOST /users/taps [32m200[0m 1169.332 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1169.788 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1171.182 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.580 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1171.504 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.087 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.367 ms - 392[0m
+[0mPOST /users/taps [32m200[0m 1170.411 ms - 392[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.507 ms - 346[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.431 ms - 346[0m
+[0mPOST /users/login [32m200[0m 147.679 ms - 681[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.057 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 442.107 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1181.734 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.072 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.185 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.113 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.111 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1185.290 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.597 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.904 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.688 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.318 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.982 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 443.877 ms - 346[0m
+[0mPOST /users/taps [32m200[0m 1175.240 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.188 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.236 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.984 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.367 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.390 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.106 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.133 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.836 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.623 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.164 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.087 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.429 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.719 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.993 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1170.201 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 736.799 ms - 523[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.570 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.606 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.384 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.210 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.604 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.620 ms - 102[0m
+[0mPOST /users/login [32m200[0m 148.206 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.036 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 439.765 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1191.584 ms - 499[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.599 ms - 102[0m
+[0mPOST /users/taps [32m200[0m 1232.912 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.541 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.670 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.327 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.244 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.299 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.086 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.388 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1191.656 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1194.939 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1183.313 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1205.033 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1183.748 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.304 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.421 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.255 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.458 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.367 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.136 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.263 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.423 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.949 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.019 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.438 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1186.790 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.446 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.900 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.362 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.119 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.943 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.585 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.460 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.675 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.089 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.701 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.318 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.622 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.778 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.170 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.356 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1186.955 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.684 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.261 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.830 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.591 ms - 346[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.151 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.529 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.938 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.656 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.351 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.207 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.051 ms - 102[0m
+[0mPOST /users/login [32m200[0m 147.762 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.641 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 438.829 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1185.378 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.077 ms - 499[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.631 ms - 102[0m
+[0mPOST /users/taps [32m200[0m 1172.434 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.768 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.792 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.865 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.829 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.076 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.898 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.281 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.935 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.945 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1177.933 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1171.821 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.105 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.003 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.192 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.279 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.794 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.305 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.808 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.478 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.584 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.584 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.812 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.996 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.657 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.895 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.099 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.190 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.576 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1178.584 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.375 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1176.539 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.692 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.599 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.430 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.881 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.602 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.217 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.268 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.917 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.181 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.214 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.763 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.723 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.248 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.001 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.115 ms - 499[0m
+[0mPOST /users/login [32m200[0m 147.814 ms - 682[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.853 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 440.676 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.912 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1173.430 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1181.835 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1179.857 ms - 500[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.902 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.755 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.008 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 447.822 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.026 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.625 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.012 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.902 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 435.405 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.271 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.442 ms - 102[0m
+[0mPOST /users/login [32m200[0m 147.731 ms - 616[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 440.095 ms - 55[0m
+[0mGET /users/getBoostLevel [36m304[0m 438.398 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1166.002 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1185.034 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1182.208 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1168.991 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1168.631 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1192.818 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1168.528 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1171.724 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1172.900 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1170.084 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1169.029 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1168.459 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1168.602 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1167.751 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1174.600 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1175.833 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1169.975 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1167.935 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1169.514 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1169.197 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1172.273 ms - 433[0m
+[0mPOST /users/login [32m200[0m 147.303 ms - 683[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 291.815 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 438.437 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1175.530 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.826 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1177.779 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1177.257 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.033 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.042 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.926 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.662 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1183.815 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1174.951 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.397 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.159 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1169.446 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.799 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.654 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1169.363 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.776 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.030 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1182.849 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.461 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1169.304 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.911 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.875 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1169.378 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1169.410 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.269 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.746 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.783 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.732 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.407 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.692 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.172 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.148 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.426 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1179.382 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.685 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.067 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.274 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1170.730 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.484 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.323 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.322 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.747 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.694 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.202 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.829 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.647 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.783 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.328 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.964 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.824 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.501 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1174.879 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.720 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.092 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.769 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1173.308 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.975 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.764 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.056 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.525 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.240 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.871 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1178.681 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1173.186 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1177.136 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.124 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.497 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.336 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.583 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.521 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.872 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1177.375 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.080 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.762 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.046 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.326 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.478 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.156 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.742 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.203 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.937 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.895 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.077 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.338 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.710 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.900 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.001 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.979 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.288 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.475 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.808 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.468 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1178.434 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1169.465 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.520 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1168.797 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.977 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1179.335 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.524 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.140 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1170.638 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.427 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.350 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.822 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.412 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.133 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1166.487 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1167.419 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1165.232 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.487 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1164.354 ms - 500[0m
+[0mPOST /users/login [32m200[0m 601.074 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.737 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 439.449 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1173.740 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1166.798 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1166.341 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1167.816 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1176.138 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.700 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1167.762 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.809 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.590 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.770 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.812 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1177.644 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.152 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.277 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.020 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.973 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.481 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.768 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.554 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.925 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.453 ms - 384[0m
+[0mPOST /users/login [32m200[0m 591.232 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.715 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 438.302 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1165.446 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1166.743 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1168.699 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1164.907 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1176.730 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.103 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1184.382 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1178.074 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.389 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1172.179 ms - 383[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.096 ms - 346[0m
+[0mPOST /users/taps [32m200[0m 1181.715 ms - 383[0m
+[0mGET /tasks [36m304[0m 438.090 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1174.209 ms - 383[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.929 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.633 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.307 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.511 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.969 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.926 ms - 102[0m
+[0mPOST /users/taps [32m200[0m 1174.109 ms - 383[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.816 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 435.179 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.780 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.931 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.897 ms - 102[0m
+[0mPOST /users/taps [32m200[0m 1173.815 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 732.172 ms - 624[0m
+[0mPOST /users/taps [32m200[0m 1174.312 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.614 ms - 383[0m
+[0mPOST /users/login [32m200[0m 590.519 ms - 565[0m
+[0mPOST /users/taps [32m200[0m 1182.724 ms - 383[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.187 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 438.311 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1181.630 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.174 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1187.920 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.003 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.626 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.145 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1182.733 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1180.459 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.469 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1186.684 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.608 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1170.094 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.168 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 732.629 ms - 626[0m
+[0mPOST /users/taps [32m200[0m 1185.774 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1169.914 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.803 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.065 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.432 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.388 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.994 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.160 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.524 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1167.819 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.425 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1177.991 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.643 ms - 383[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.802 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1166.611 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.250 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.704 ms - 382[0m
+[0mGET /tasks [36m304[0m 437.856 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1169.151 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 728.302 ms - 627[0m
+[0mPOST /users/login [32m200[0m 589.515 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 292.517 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 439.136 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1165.047 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.893 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.030 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.992 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.502 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1177.032 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.641 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.921 ms - 384[0m
+[0mGET /tasks [36m304[0m 439.854 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1176.683 ms - 384[0m
+[0mPOST /leaderboard [32m200[0m 731.940 ms - 629[0m
+[0mPOST /users/taps [32m200[0m 1179.939 ms - 384[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.557 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1181.883 ms - 384[0m
+[0mPOST /users/login [32m200[0m 147.670 ms - 566[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.443 ms - 48[0m
+[0mPOST /users/taps [32m200[0m 1176.859 ms - 384[0m
+[0mGET /users/getBoostLevel [36m304[0m 439.167 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1175.653 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.636 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1183.899 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.337 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.260 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.929 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.343 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1170.066 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.614 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1169.202 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.434 ms - 382[0m
+[0mGET /tasks [32m200[0m 437.187 ms - 800[0m
+[0mPOST /leaderboard [32m200[0m 731.920 ms - 629[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.662 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1169.040 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.226 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.371 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.080 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.089 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.919 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1167.567 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.798 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.121 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.608 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.971 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.568 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.030 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.763 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.774 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.950 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.577 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.258 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1168.710 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.055 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1169.878 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 728.701 ms - 629[0m
+[0mPOST /users/taps [32m200[0m 1180.057 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.530 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.785 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.845 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1166.519 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.692 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1185.191 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.205 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.568 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.019 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.238 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.200 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.409 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1170.235 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1183.266 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1168.174 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1168.624 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.616 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1170.567 ms - 383[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.019 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.022 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1176.288 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.284 ms - 384[0m
+[0mPOST /tasks/verifyTelegramJoin [32m200[0m 1331.076 ms - 399[0m
+[0mGET /tasks [32m200[0m 440.267 ms - 799[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.728 ms - 41[0m
+[0mGET /tasks [36m304[0m 437.732 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 737.336 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 730.624 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 731.270 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 728.917 ms - 631[0m
+[0mPOST /tasks/verifyInstagramJoin [32m200[0m 1325.065 ms - 418[0m
+[0mGET /tasks [32m200[0m 439.284 ms - 798[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.066 ms - 41[0m
+[0mGET /tasks [36m304[0m 436.522 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 728.673 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 728.075 ms - 632[0m
+[0mGET /tasks [36m304[0m 442.678 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.016 ms - 41[0m
+[0mPOST /leaderboard [32m200[0m 731.228 ms - 632[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.281 ms - 41[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.865 ms - 41[0m
+[0mGET /tasks [36m304[0m 438.647 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 729.605 ms - 632[0m
+[0mGET /tasks [36m304[0m 438.017 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.470 ms - 41[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.944 ms - 41[0m
+[0mGET /tasks [36m304[0m 439.840 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 730.353 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 729.343 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 729.705 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 729.456 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 747.686 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 750.387 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 748.373 ms - 632[0m
+[0mGET /tasks [36m304[0m 436.972 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 1530.202 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 728.718 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 732.539 ms - 632[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 442.329 ms - 41[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.465 ms - 41[0m
+[0mGET /tasks [36m304[0m 440.510 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.729 ms - 41[0m
+[0mGET /tasks [36m304[0m 440.771 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 730.946 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 731.048 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 730.770 ms - 632[0m
+[0mPOST /leaderboard [32m200[0m 731.292 ms - 632[0m
+[0mGET /tasks [36m304[0m 439.520 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.401 ms - 41[0m
+[0mGET /users/getSkin [32m200[0m 440.121 ms - 441[0m
+[0mPOST /leaderboard [32m200[0m 731.396 ms - 631[0m
+[0mGET /tasks [32m200[0m 439.325 ms - 800[0m
+[0mPOST /users/login [32m200[0m 149.493 ms - 597[0m
+[0mPOST /tasks/verifyInstagramJoin [32m200[0m 1335.471 ms - 403[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 439.415 ms - 55[0m
+[0mGET /tasks [32m200[0m 440.744 ms - 799[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.530 ms - -[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.340 ms - 101[0m
+[0mPOST /users/taps [32m200[0m 1188.372 ms - 415[0m
+[0mPOST /leaderboard [32m200[0m 732.355 ms - 631[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.966 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.113 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.683 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.521 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.697 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.851 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.318 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.240 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.537 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.308 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.773 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.949 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.854 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.412 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.867 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.331 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.092 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.516 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.882 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.291 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.181 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.311 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.481 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.026 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.900 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.975 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.377 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.691 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.900 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.543 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.437 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.297 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.048 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.545 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.625 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.834 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.907 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.673 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.195 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.449 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.275 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.019 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.712 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.535 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.880 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.429 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.866 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.058 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.196 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.826 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.055 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.171 ms - 101[0m
+[0mGET /tasks [36m304[0m 440.612 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 731.795 ms - 631[0m
+[0mGET /tasks [36m304[0m 439.552 ms - -[0m
+[0mGET /tasks [36m304[0m 440.136 ms - -[0m
+[0mGET /tasks [36m304[0m 439.571 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 731.283 ms - 631[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.061 ms - 346[0m
+[0mGET /tasks [36m304[0m 439.330 ms - -[0m
+[0mGET /tasks [36m304[0m 439.249 ms - -[0m
+[0mPOST /tasks/verifyInstagramJoin [32m200[0m 1327.002 ms - 434[0m
+[0mGET /tasks [32m200[0m 439.667 ms - 799[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.225 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.762 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.623 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.791 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.784 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.716 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.553 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.888 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.436 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.337 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.383 ms - 101[0m
+[0mGET /tasks [36m304[0m 439.211 ms - -[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.545 ms - 101[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.806 ms - 41[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.344 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.400 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.061 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.246 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.199 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.535 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.057 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.365 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.985 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.051 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.930 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.690 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 434.974 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.361 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.975 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.299 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.804 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.953 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.806 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.595 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.097 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.425 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.444 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.380 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 436.499 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.838 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.142 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.870 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.964 ms - 101[0m
+[0mGET /tasks [36m304[0m 437.999 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 730.290 ms - 633[0m
+[0mGET /tasks [36m304[0m 437.591 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.659 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1193.577 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1173.944 ms - 433[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.392 ms - 101[0m
+[0mPOST /users/taps [32m200[0m 1169.542 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1169.849 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1168.388 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1167.728 ms - 433[0m
+[0mPOST /leaderboard [32m200[0m 728.292 ms - 634[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.169 ms - 41[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 437.911 ms - 41[0m
+[0mGET /users/getSkin [36m304[0m 438.994 ms - -[0m
+[0mGET /users/getPlanet [36m304[0m 439.758 ms - -[0m
+[0mPOST /users/login [32m200[0m 1397.642 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.145 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 445.871 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1178.977 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.246 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1177.133 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1175.874 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1177.448 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1170.551 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1170.948 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1189.093 ms - 384[0m
+[0mGET /users/getSkin [32m200[0m 1211.510 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1174.452 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.293 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.298 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1172.472 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.703 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.718 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1176.871 ms - 384[0m
+[0mGET /users/getSkin [36m304[0m 440.760 ms - -[0m
+[0mGET /users/getPlanet [32m200[0m 441.901 ms - 465[0m
+[0mPOST /users/taps [32m200[0m 1177.638 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.341 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.314 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1174.855 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1173.702 ms - 384[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.452 ms - 41[0m
+[0mGET /tasks [32m200[0m 442.934 ms - 800[0m
+[0mGET /streak [32m200[0m 443.528 ms - 663[0m
+[0mPOST /streak/update [32m200[0m 1332.103 ms - 407[0m
+[0mGET /tasks [36m304[0m 447.211 ms - -[0m
+[0mPOST /tasks/verifyYoutubeJoin [32m200[0m 1336.127 ms - 424[0m
+[0mPOST /leaderboard [32m200[0m 734.419 ms - 635[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.708 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.671 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.963 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.067 ms - 101[0m
+[0mGET /users/getSkin [36m304[0m 438.957 ms - -[0m
+[0mGET /users/getPlanet [36m304[0m 438.565 ms - -[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.460 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.918 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.743 ms - 101[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 438.707 ms - 41[0m
+[0mGET /tasks [32m200[0m 438.523 ms - 799[0m
+[0mGET /streak [32m200[0m 439.384 ms - 661[0m
+[0mGET /tasks [36m304[0m 438.516 ms - -[0m
+[0mPOST /tasks/verifyTwitterJoin [32m200[0m 1329.815 ms - 463[0m
+[0mGET /tasks [32m200[0m 438.802 ms - 798[0m
+[0mGET /streak [36m304[0m 438.710 ms - -[0m
+[0mGET /tasks [32m200[0m 438.446 ms - 798[0m
+[0mPOST /users/login [32m200[0m 148.240 ms - 617[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 438.161 ms - 55[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.274 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1186.991 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1175.602 ms - 434[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.897 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.474 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.327 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.717 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.369 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.669 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.335 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.310 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1232.206 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.446 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.995 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.228 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.806 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.631 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.771 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.787 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 445.777 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 570.786 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 450.510 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 491.366 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1221.717 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.581 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 445.485 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.401 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1207.956 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1325.184 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.612 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.512 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.514 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.525 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.295 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 437.837 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.984 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.547 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.530 ms - 101[0m
+[0mGET /tasks [32m200[0m 440.878 ms - 799[0m
+[0mPOST /leaderboard [32m200[0m 731.387 ms - 634[0m
+[0mGET /tasks [36m304[0m 439.045 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 732.083 ms - 634[0m
+[0mGET /tasks [36m304[0m 469.462 ms - -[0m
+[0mGET /tasks [36m304[0m 439.861 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 730.651 ms - 634[0m
+[0mGET /streak [32m200[0m 440.393 ms - 660[0m
+[0mPOST /streak/update [32m200[0m 1325.248 ms - 434[0m
+[0mGET /tasks [36m304[0m 439.097 ms - -[0m
+[0mGET /tasks [36m304[0m 438.658 ms - -[0m
+[0mGET /users/getSkin [32m200[0m 440.187 ms - 441[0m
+[0mPOST /users/login [32m200[0m 147.768 ms - 586[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.080 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 439.609 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1181.539 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1178.008 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1172.454 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1178.299 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1178.014 ms - 403[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.634 ms - 101[0m
+[0mPOST /users/taps [32m200[0m 1178.127 ms - 402[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.066 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.556 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.342 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.953 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.219 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.448 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.323 ms - 101[0m
+[0mPOST /users/taps [32m200[0m 1174.295 ms - 403[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.248 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.366 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 438.910 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.070 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.946 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.359 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.201 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.410 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.965 ms - 101[0m
+[0mPOST /users/taps [32m200[0m 1178.573 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1177.820 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1176.151 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1178.185 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1177.778 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1177.837 ms - 403[0m
+[0mPOST /users/login [32m200[0m 147.996 ms - 683[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.841 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.657 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1178.489 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1180.974 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1180.218 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1194.441 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1180.987 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.033 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1176.744 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1177.330 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1181.826 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1186.816 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1176.525 ms - 498[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.495 ms - 347[0m
+[0mPOST /users/taps [32m200[0m 1177.803 ms - 498[0m
+[0mGET /tasks [32m200[0m 441.481 ms - 796[0m
+[0mPOST /users/taps [32m200[0m 1177.264 ms - 498[0m
+[0mGET /streak [32m200[0m 442.365 ms - 660[0m
+[0mPOST /users/taps [32m200[0m 1178.056 ms - 498[0m
+[0mGET /tasks [36m304[0m 442.260 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1174.452 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1177.734 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1176.556 ms - 498[0m
+[0mGET /tasks [36m304[0m 441.978 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1177.544 ms - 498[0m
+[0mGET /streak [36m304[0m 440.779 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.798 ms - 498[0m
+[0mPOST /streak/update [32m200[0m 1336.695 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1173.814 ms - 498[0m
+[0mGET /tasks [36m304[0m 453.784 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1177.815 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.858 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1186.228 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.586 ms - 347[0m
+[0mPOST /users/taps [32m200[0m 1175.536 ms - 499[0m
+[0mGET /tasks [36m304[0m 441.829 ms - -[0m
+[0mGET /streak [32m200[0m 440.903 ms - 658[0m
+[0mPOST /users/taps [32m200[0m 1175.683 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.654 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.425 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1175.997 ms - 499[0m
+[0mGET /tasks [36m304[0m 441.036 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1175.070 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 733.448 ms - 634[0m
+[0mPOST /users/taps [32m200[0m 1176.081 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.959 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.392 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.820 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.837 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.896 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.277 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.851 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1179.187 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1188.627 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.297 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1172.513 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.819 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1173.172 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.012 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 741.280 ms - 634[0m
+[0mPOST /users/taps [32m200[0m 1174.133 ms - 499[0m
+[0mGET /tasks [36m304[0m 454.202 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.214 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1174.576 ms - 499[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 442.145 ms - 347[0m
+[0mPOST /users/taps [32m200[0m 1178.756 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1182.724 ms - 499[0m
+[0mPOST /users/taps [32m200[0m 1181.917 ms - 497[0m
+[0mPOST /users/taps [32m200[0m 1175.315 ms - 498[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.604 ms - 102[0m
+[0mPOST /users/taps [32m200[0m 1175.577 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.343 ms - 498[0m
+[0mPOST /users/taps [32m200[0m 1175.261 ms - 498[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.534 ms - 102[0m
+[0mGET /users/getSkin [32m200[0m 440.545 ms - 441[0m
+[0mGET /users/getPlanet [32m200[0m 441.596 ms - 465[0m
+[0mPOST /leaderboard [32m200[0m 733.244 ms - 634[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 448.690 ms - 347[0m
+[0mGET /tasks [36m304[0m 440.969 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1185.313 ms - 403[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.882 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.553 ms - 101[0m
+[0mPOST /users/boostLevel [33m400[0m 438.395 ms - 101[0m
+[0mGET /users/getSkin [32m200[0m 440.734 ms - 441[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 448.223 ms - 101[0m
+[0mPOST /users/boostLevel [33m400[0m 451.096 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.964 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 439.629 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.117 ms - 101[0m
+[0mGET /users/getSkin [36m304[0m 442.044 ms - -[0m
+[0mPOST /users/login [32m200[0m 602.788 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.134 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 443.010 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1180.834 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.509 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1183.883 ms - 382[0m
+[0mGET /tasks [32m200[0m 442.889 ms - 800[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.419 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1177.546 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.263 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.554 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1171.818 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.034 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.493 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1173.247 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1176.082 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.452 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1171.950 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.196 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1176.535 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.555 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.378 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1183.107 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.236 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.198 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.813 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.894 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.602 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.579 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.257 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1173.519 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1176.147 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.729 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.841 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1172.266 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.182 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.896 ms - 382[0m
+[0mPOST /users/login [32m200[0m 603.740 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.022 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 445.448 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1175.950 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1173.400 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.798 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1174.807 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1173.243 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1173.171 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1174.111 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1174.279 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1173.467 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.767 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1173.205 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1172.573 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1173.241 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1174.309 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1182.162 ms - 381[0m
+[0mPOST /users/taps [32m200[0m 1180.476 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1181.812 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1184.493 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.545 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1182.101 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.433 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.608 ms - 383[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.078 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1175.312 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.654 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1171.698 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.059 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.480 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.065 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 733.234 ms - 633[0m
+[0mPOST /leaderboard [32m200[0m 732.578 ms - 633[0m
+[0mGET /tasks [32m200[0m 440.316 ms - 800[0m
+[0mPOST /users/login [32m200[0m 148.507 ms - 588[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 293.809 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 443.842 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1186.015 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1182.355 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1182.880 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1183.545 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1194.935 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1182.852 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1183.271 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1178.395 ms - 406[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 444.202 ms - 41[0m
+[0mGET /tasks [32m200[0m 441.982 ms - 800[0m
+[0mPOST /leaderboard [32m200[0m 734.078 ms - 633[0m
+[0mPOST /users/login [32m200[0m 150.032 ms - 617[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 445.078 ms - 55[0m
+[0mGET /users/getBoostLevel [36m304[0m 446.498 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1200.405 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1189.749 ms - 434[0m
+[0mGET /tasks [36m304[0m 446.054 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1182.504 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1186.503 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1190.484 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1195.976 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1192.785 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1197.856 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1186.719 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1185.287 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1184.273 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1185.455 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1184.176 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1184.888 ms - 434[0m
+[0mPOST /users/login [32m200[0m 150.332 ms - 681[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 297.378 ms - 48[0m
+[0mPOST /users/taps [32m200[0m 1189.937 ms - 434[0m
+[0mGET /users/getBoostLevel [36m304[0m 444.699 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1190.167 ms - 433[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.775 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.387 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.351 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.745 ms - 101[0m
+[0mPOST /users/taps [32m200[0m 1185.700 ms - 433[0m
+[0mPOST /users/taps [32m200[0m 1180.550 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.975 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.162 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.286 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.397 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1175.816 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.877 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1187.907 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1176.991 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1184.816 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1186.912 ms - 500[0m
+[0mPOST /leaderboard [32m200[0m 736.509 ms - 634[0m
+[0mPOST /users/taps [32m200[0m 1187.028 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1186.324 ms - 500[0m
+[0mGET /users/getSkin [36m304[0m 445.551 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1182.073 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1182.539 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1181.830 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1182.463 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1184.380 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1183.294 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1187.280 ms - 500[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 445.091 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.760 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.678 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.846 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.062 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.364 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.038 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.863 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.176 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.869 ms - 102[0m
+[0mPOST /leaderboard [32m200[0m 737.568 ms - 634[0m
+[0mGET /users/getSkin [36m304[0m 442.176 ms - -[0m
+[0mGET /users/getPlanet [36m304[0m 443.424 ms - -[0m
+[0mPOST /users/login [32m200[0m 149.281 ms - 566[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.883 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 444.482 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1190.536 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.624 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 736.002 ms - 633[0m
+[0mPOST /leaderboard [32m200[0m 737.501 ms - 633[0m
+[0mPOST /leaderboard [32m200[0m 736.771 ms - 633[0m
+[0mPOST /leaderboard [32m200[0m 736.413 ms - 633[0m
+[0mGET /tasks [36m304[0m 443.154 ms - -[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 442.643 ms - 41[0m
+[0mGET /users/getSkin [32m200[0m 443.717 ms - 441[0m
+[0mGET /tasks [36m304[0m 448.303 ms - -[0m
+[0mGET /streak [32m200[0m 445.023 ms - 663[0m
+[0mPOST /streak/update [32m200[0m 1332.409 ms - 406[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 442.721 ms - 41[0m
+[0mGET / [32m200[0m 13.160 ms - 41[0m
+[0mPOST /users/login [32m200[0m 149.034 ms - 567[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 296.893 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 444.764 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1196.745 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1193.417 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.364 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1189.000 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1184.238 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1186.304 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.035 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.823 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1183.970 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1183.307 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.179 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1181.099 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1185.552 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1182.173 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.046 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.169 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1180.866 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.532 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.042 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.183 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.026 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.462 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.624 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.526 ms - 383[0m
+[0mGET /tasks [32m200[0m 443.543 ms - 800[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 439.921 ms - 41[0m
+[0mPOST /leaderboard [32m200[0m 732.000 ms - 633[0m
+[0mPOST /leaderboard [32m200[0m 733.239 ms - 633[0m
+[0mPOST /leaderboard [32m200[0m 733.546 ms - 633[0m
+[0mPOST /users/login [32m200[0m 148.179 ms - 566[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.317 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 1231.604 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1186.700 ms - 384[0m
+[0mPOST /users/login [32m200[0m 148.430 ms - 567[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.280 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.764 ms - -[0m
+[0mGET / [32m200[0m 0.347 ms - 41[0m
+[0mPOST /users/login [32m200[0m 610.893 ms - 564[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.725 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 444.281 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1185.860 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1184.234 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1184.724 ms - 383[0m
+[0mPOST /users/login [32m200[0m 148.795 ms - 589[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.546 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.656 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1178.235 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1174.338 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1176.299 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1205.646 ms - 406[0m
+[0mPOST /users/taps [32m200[0m 1188.146 ms - 406[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 443.503 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1194.503 ms - 406[0m
+[0mGET /tasks [32m200[0m 444.454 ms - 800[0m
+[0mPOST /users/taps [32m200[0m 1210.151 ms - 406[0m
+[0mPOST /leaderboard [32m200[0m 734.909 ms - 632[0m
+[0mGET /ab2g [33m404[0m 4.197 ms - 143[0m
+[0mGET /ab2h [33m404[0m 0.812 ms - 143[0m
+[0mGET / [32m200[0m 0.293 ms - 41[0m
+[0mGET / [32m200[0m 0.337 ms - 41[0m
+[0mGET / [32m200[0m 0.332 ms - 41[0m
+[0mPOST /users/login [32m200[0m 621.848 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 296.582 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 451.157 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1179.425 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.016 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.721 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.757 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 736.825 ms - 631[0m
+[0mGET /tasks [32m200[0m 448.172 ms - 800[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 442.956 ms - 41[0m
+[0mPOST /leaderboard [32m200[0m 736.864 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 737.145 ms - 631[0m
+[0mPOST /leaderboard [32m200[0m 739.391 ms - 631[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 440.999 ms - 41[0m
+[0mGET /users/getSkin [32m200[0m 443.582 ms - 441[0m
+[0mGET /users/getPlanet [32m200[0m 443.774 ms - 465[0m
+[0mGET /users/getSkin [36m304[0m 441.053 ms - -[0m
+[0mPOST /referral/getReferralDetails [0m-[0m - ms - -[0m
+[0mPOST /users/login [32m200[0m 148.790 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 298.745 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.649 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.921 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1173.308 ms - 382[0m
+[0mGET /tasks [36m304[0m 441.651 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1173.536 ms - 382[0m
+[0mGET /streak [32m200[0m 455.519 ms - 663[0m
+[0mPOST /users/taps [0m-[0m - ms - -[0m
+[0mPOST /users/login [32m200[0m 148.324 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.810 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 441.575 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1176.944 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1173.380 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.497 ms - 382[0m
+[0mGET /tasks [36m304[0m 442.838 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1194.063 ms - 382[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.678 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1177.307 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.006 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.582 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 736.083 ms - 631[0m
+[0mPOST /users/taps [32m200[0m 1193.188 ms - 382[0m
+[0mPOST /users/login [32m200[0m 148.984 ms - 567[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 295.201 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 443.332 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1192.875 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1178.062 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.813 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1187.701 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.746 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1191.129 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1189.849 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1187.275 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1186.523 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1189.673 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1189.254 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1188.936 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1199.569 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1190.399 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1188.179 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1187.290 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1189.252 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1188.359 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.319 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1181.051 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1180.792 ms - 383[0m
+[0mPOST /leaderboard [32m200[0m 734.343 ms - 633[0m
+[0mPOST /users/taps [32m200[0m 1175.730 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.965 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.133 ms - 383[0m
+[0mGET /tasks [36m304[0m 442.574 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1179.446 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.958 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.043 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.256 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.926 ms - 383[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.351 ms - 41[0m
+[0mPOST /users/taps [32m200[0m 1178.744 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.094 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.185 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.947 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1172.834 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.643 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.700 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.846 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1174.285 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.826 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1184.425 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.995 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1173.560 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.612 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1175.098 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1193.876 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.083 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.297 ms - 385[0m
+[0mPOST /leaderboard [32m200[0m 736.967 ms - 633[0m
+[0mPOST /users/taps [32m200[0m 1178.042 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1173.922 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1179.467 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1178.107 ms - 385[0m
+[0mGET /users/getSkin [32m200[0m 443.019 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1180.143 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1174.950 ms - 385[0m
+[0mGET /users/getPlanet [32m200[0m 443.644 ms - 465[0m
+[0mPOST /users/taps [32m200[0m 1182.554 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.021 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1180.908 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.518 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1201.363 ms - 385[0m
+[0mPOST /leaderboard [32m200[0m 734.419 ms - 633[0m
+[0mPOST /users/taps [32m200[0m 1177.036 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1174.678 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1176.931 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1174.911 ms - 385[0m
+[0mGET /tasks [36m304[0m 442.544 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1179.105 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1177.709 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1176.947 ms - 385[0m
+[0mPOST /tasks/verifyTelegramJoin [32m200[0m 1337.925 ms - 401[0m
+[0mGET /tasks [32m200[0m 442.407 ms - 799[0m
+[0mPOST /tasks/verifyInstagramJoin [32m200[0m 1336.355 ms - 420[0m
+[0mGET /tasks [32m200[0m 443.050 ms - 798[0m
+[0mGET / [32m200[0m 0.325 ms - 41[0m
+[0mPOST /users/login [32m200[0m 944.022 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 297.584 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 449.875 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1220.139 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1184.641 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1184.200 ms - 384[0m
+[0mPOST /users/taps [32m200[0m 1187.511 ms - 384[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.788 ms - 41[0m
+[0mGET /tasks [32m200[0m 444.299 ms - 800[0m
+[0mPOST /leaderboard [32m200[0m 736.676 ms - 634[0m
+[0mPOST /leaderboard [32m200[0m 735.557 ms - 634[0m
+[0mPOST /leaderboard [32m200[0m 737.874 ms - 634[0m
+[0mGET / [32m200[0m 0.535 ms - 41[0m
+[0mPOST /users/login [32m200[0m 151.612 ms - 603[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 300.721 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 447.233 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1200.610 ms - 420[0m
+[0mPOST /users/taps [32m200[0m 1196.307 ms - 420[0m
+[0mPOST /users/taps [32m200[0m 1196.667 ms - 420[0m
+[0mPOST /users/taps [32m200[0m 1199.612 ms - 420[0m
+[0mPOST /users/taps [32m200[0m 1197.204 ms - 420[0m
+[0mPOST /users/taps [32m200[0m 1198.076 ms - 420[0m
+[0mPOST /users/taps [32m200[0m 1197.992 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1196.014 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1198.441 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1196.820 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1196.232 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1196.697 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1196.344 ms - 417[0m
+[0mPOST /users/taps [32m200[0m 1195.847 ms - 417[0m
+[0mPOST /users/taps [32m200[0m 1204.956 ms - 417[0m
+[0mPOST /users/taps [32m200[0m 1190.246 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.791 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.666 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.574 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.228 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.177 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.193 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1191.829 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1199.747 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1202.466 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1188.956 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1180.311 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1181.073 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1182.267 ms - 418[0m
+[0mPOST /users/taps [32m200[0m 1181.144 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.794 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.746 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1179.701 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1190.852 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.156 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.428 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.386 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1182.254 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1180.529 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1182.969 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1183.115 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.245 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1182.391 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1184.180 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1183.965 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.810 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.908 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1180.568 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1183.801 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1192.357 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.967 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1183.333 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1186.167 ms - 419[0m
+[0mPOST /users/taps [32m200[0m 1181.563 ms - 419[0m
+[0mGET / [32m200[0m 0.320 ms - 41[0m
+[0mPOST /users/login [32m200[0m 149.237 ms - 683[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 295.294 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 444.195 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1197.867 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1187.954 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1189.333 ms - 500[0m
+[0mPOST /users/taps [32m200[0m 1186.458 ms - 499[0m
+[0mPOST /leaderboard [32m200[0m 736.781 ms - 634[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 442.773 ms - 347[0m
+[0mGET /tasks [36m304[0m 442.592 ms - -[0m
+[0mGET /tasks [36m304[0m 442.687 ms - -[0m
+[0mGET /streak [32m200[0m 445.672 ms - 657[0m
+[0mPOST /streak/update [32m200[0m 1338.957 ms - 499[0m
+[0mGET /tasks [36m304[0m 442.573 ms - -[0m
+[0mGET /users/getSkin [36m304[0m 444.858 ms - -[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.932 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.630 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 677.789 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1375.540 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 591.986 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1328.836 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1211.068 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 466.105 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1500.820 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.807 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.576 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 447.347 ms - 102[0m
+err {
+  status: 400,
+  message: 'You need at least 100000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 1206.788 ms - 102[0m
+[0mPOST /leaderboard [32m200[0m 735.163 ms - 634[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 444.014 ms - 347[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.937 ms - 347[0m
+[0mGET /tasks [36m304[0m 442.115 ms - -[0m
+[0mPOST /leaderboard [32m200[0m 733.936 ms - 634[0m
+[0mPOST /users/login [32m200[0m 148.538 ms - 565[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 294.431 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 442.567 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1185.932 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.677 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1180.735 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.182 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.243 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1181.431 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1182.922 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1182.770 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.889 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1185.069 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1178.246 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.191 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1176.832 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1178.320 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1177.541 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1179.222 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1191.084 ms - 383[0m
+[0mPOST /users/taps [32m200[0m 1183.710 ms - 382[0m
+[0mGET /users/getSkin [32m200[0m 441.692 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1174.415 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.100 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1174.817 ms - 382[0m
+[0mGET /tasks [32m200[0m 441.899 ms - 800[0m
+[0mPOST /users/taps [32m200[0m 1175.803 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1181.309 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1175.080 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.873 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1176.142 ms - 382[0m
+[0mPOST /users/taps [32m200[0m 1177.483 ms - 382[0m
+[0mPOST /leaderboard [32m200[0m 735.880 ms - 635[0m
+[0mGET /users/getSkin [36m304[0m 441.758 ms - -[0m
+[0mPOST /users/login [32m200[0m 148.536 ms - 586[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 295.539 ms - 48[0m
+[0mGET /users/getBoostLevel [32m200[0m 442.148 ms - 2460[0m
+[0mPOST /users/taps [32m200[0m 1196.132 ms - 403[0m
+[0mPOST /users/taps [32m200[0m 1185.217 ms - 403[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.525 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.327 ms - 101[0m
+[0mPOST /referral/getReferralDetails [32m200[0m 441.265 ms - 41[0m
+[0mGET /tasks [36m304[0m 442.043 ms - -[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.417 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.283 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.471 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.324 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 440.474 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.672 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.047 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.470 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.363 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.902 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.880 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.479 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.330 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.374 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.022 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.291 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.681 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.404 ms - 101[0m
+[0mGET /users/getSkin [32m200[0m 445.471 ms - 441[0m
+[0mPOST /users/login [32m200[0m 148.838 ms - 616[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 442.461 ms - 55[0m
+[0mGET /users/getBoostLevel [36m304[0m 444.322 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1182.727 ms - 434[0m
+[0mGET /tasks [36m304[0m 443.773 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1189.375 ms - 434[0m
+[0mGET /streak [32m200[0m 444.535 ms - 657[0m
+[0mPOST /users/taps [32m200[0m 1177.634 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1180.228 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.899 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.360 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.480 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1176.924 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.205 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.332 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.678 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.694 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.233 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.416 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.524 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.414 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.111 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.475 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.319 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.178 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.360 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1178.366 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1179.644 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1180.137 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1208.878 ms - 434[0m
+[0mPOST /users/taps [32m200[0m 1180.382 ms - 434[0m
+[0mPOST /streak/update [32m200[0m 1343.397 ms - 434[0m
+[0mGET /tasks [36m304[0m 444.030 ms - -[0m
+[0mGET /streak [32m200[0m 442.622 ms - 655[0m
+[0mGET /users/getSkin [36m304[0m 444.829 ms - -[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.330 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 443.471 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.968 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.105 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.775 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.722 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 441.225 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.237 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.741 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.095 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 444.480 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.652 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 446.014 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.281 ms - 101[0m
+err {
+  status: 400,
+  message: 'You need at least 50000 coins to reach the next level'
+}
+[0mPOST /users/boostLevel [33m400[0m 442.903 ms - 101[0m
+[0mPOST /users/login [32m200[0m 149.809 ms - 568[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 295.485 ms - 48[0m
+[0mGET /users/getBoostLevel [36m304[0m 444.505 ms - -[0m
+[0mPOST /users/taps [32m200[0m 1192.899 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.671 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.099 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1190.773 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.334 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.647 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.052 ms - 385[0m
+[0mGET /users/getSkin [32m200[0m 445.962 ms - 441[0m
+[0mPOST /users/taps [32m200[0m 1183.676 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1178.848 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1178.442 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1178.727 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1180.300 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1179.768 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1180.233 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.827 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1184.139 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.605 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.951 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1184.212 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.555 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.938 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.489 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.157 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.809 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.144 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.352 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1183.752 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.126 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.965 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1180.687 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.485 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1181.819 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1185.613 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.615 ms - 385[0m
+[0mPOST /users/taps [32m200[0m 1182.655 ms - 385[0m

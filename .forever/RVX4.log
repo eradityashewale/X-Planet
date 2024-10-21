@@ -1,0 +1,2023 @@
+(node:75232) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0mPOST /users/login [32m200[0m 1007.013 ms - 486[0m
+Auth failed: invalid signature
+[0mGET /users/me [33m401[0m 12.434 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /users/taps [33m401[0m 1.771 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /referral/getReferralDetails [33m401[0m 2.323 ms - 75[0m
+Auth failed: invalid signature
+[0mGET /users/getBoostLevel [33m401[0m 2.168 ms - 75[0m
+Auth failed: invalid signature
+[0mGET /users/getSkin [33m401[0m 2.065 ms - 75[0m
+Auth failed: invalid signature
+[0mGET /users/getPlanet [33m401[0m 2.453 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /users/taps [33m401[0m 2.638 ms - 75[0m
+[0mGET / [32m200[0m 0.766 ms - 41[0m
+[0mGET / [32m200[0m 0.503 ms - 41[0m
+Auth failed: invalid signature
+[0mGET /users/getSkin [33m401[0m 1.966 ms - 75[0m
+[0mPOST /users/login [32m200[0m 150.862 ms - 486[0m
+[0mGET /users/me [32m200[0m 303.769 ms - 303[0m
+[0mGET /users/getSkin [32m200[0m 299.597 ms - 74[0m
+[0mGET /users/getPlanet [32m200[0m 298.321 ms - 82[0m
+[0mGET /users/getBoostLevel [32m200[0m 299.346 ms - 78[0m
+err { status: 400, message: 'Not enough coins' }
+[0mPOST /users/upgradeSkin [33m400[0m 305.064 ms - 64[0m
+[0mPOST /users/taps [32m200[0m 1242.892 ms - 307[0m
+[0mPOST /users/upgradeSkin [32m200[0m 1193.101 ms - 306[0m
+[0mGET /users/getSkin [32m200[0m 297.066 ms - 74[0m
+[0mPOST /users/upgradePlanet [32m200[0m 1193.597 ms - 306[0m
+[0mPOST /leaderboard [32m200[0m 741.518 ms - 178[0m
+[0mPOST /referral/getCode [32m200[0m 297.366 ms - 28[0m
+[0mPOST /referral/postReferralCoins [32m200[0m 445.318 ms - 62[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 461.099 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 443.917 ms - 158[0m
+[Error [ValidationError]: Validation Failed] {
+  statusCode: 400,
+  error: 'Bad Request',
+  details: { body: [ [Object] ] }
+}
+[0mPOST /users/login [33m422[0m 8.819 ms - 109[0m
+[Error [ValidationError]: Validation Failed] {
+  statusCode: 400,
+  error: 'Bad Request',
+  details: { body: [ [Object] ] }
+}
+[0mPOST /users/login [33m422[0m 4.005 ms - 109[0m
+[Error [ValidationError]: Validation Failed] {
+  statusCode: 400,
+  error: 'Bad Request',
+  details: { body: [ [Object] ] }
+}
+[0mPOST /users/login [33m422[0m 2.327 ms - 109[0m
+[0mPOST /users/login [32m200[0m 149.733 ms - 489[0m
+[0mGET /users/me [32m200[0m 298.818 ms - 306[0m
+[0mGET /https://api.galaxyskyverse.com:3000/users/me [33m404[0m 2.160 ms - 183[0m
+Auth failed: Authentication token missing
+[0mGET /users/me [33m401[0m 0.537 ms - 75[0m
+[0mPOST /users/me [33m404[0m 0.948 ms - 148[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 1253.630 ms - 158[0m
+[0mPOST /users/login [32m200[0m 149.977 ms - 489[0m
+[0mPOST /users/login [32m200[0m 149.667 ms - 489[0m
+[0mPOST /users/login [32m200[0m 149.276 ms - 489[0m
+[0mPOST /users/login [32m200[0m 150.402 ms - 489[0m
+[0mPOST /users/login [32m200[0m 149.432 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 740.733 ms - 178[0m
+[0mPOST /users/login [32m200[0m 149.040 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 735.639 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 736.038 ms - 178[0m
+[0mPOST /users/login [32m200[0m 149.381 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 735.550 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 735.803 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 767.251 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 736.999 ms - 178[0m
+[0mPOST /users/login [32m200[0m 149.630 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 736.932 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 735.912 ms - 178[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.324 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.942 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 445.474 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 451.691 ms - 158[0m
+[0mPOST /users/login [32m200[0m 149.394 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.414 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 451.117 ms - 158[0m
+[0mPOST /users/login [32m200[0m 149.354 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 451.118 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.724 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 443.844 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 443.035 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.921 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 443.595 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 444.867 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.858 ms - 158[0m
+[0mGET / [32m200[0m 0.359 ms - 41[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 451.726 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.666 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.706 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.345 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.442 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 448.745 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.864 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.569 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.813 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.591 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.652 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.949 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.069 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.954 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.827 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.634 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 447.927 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 443.456 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.053 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.660 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.424 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.821 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 447.805 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.703 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.281 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.329 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.382 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.255 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.358 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.967 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 466.507 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.822 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 450.809 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 451.278 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.869 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.912 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.994 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 442.442 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.727 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 448.360 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.155 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 444.584 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 448.979 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.160 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.805 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.867 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 453.932 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.200 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.324 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.411 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.438 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 448.484 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.536 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.098 ms - 158[0m
+[0mPOST /users/login [32m200[0m 148.596 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.851 ms - 158[0m
+[0mPOST /users/login [32m200[0m 151.906 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 736.895 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 733.968 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 734.079 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 734.074 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 735.567 ms - 178[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 449.039 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.746 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.837 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.684 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.187 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 448.661 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 444.906 ms - 158[0m
+[0mPOST /users/login [32m200[0m 147.813 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 729.736 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 729.218 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 729.014 ms - 178[0m
+[0mPOST /leaderboard [32m200[0m 729.522 ms - 178[0m
+[0mPOST /users/login [32m200[0m 147.432 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 728.815 ms - 178[0m
+[0mPOST /users/login [32m200[0m 147.513 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 729.438 ms - 178[0m
+[0mPOST /users/login [32m200[0m 148.740 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 445.070 ms - 158[0m
+[0mPOST /users/login [32m200[0m 147.753 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.349 ms - 489[0m
+[0mPOST /leaderboard [32m200[0m 729.440 ms - 178[0m
+[0mPOST /users/login [32m200[0m 147.272 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.320 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 447.706 ms - 158[0m
+[0mPOST /users/login [32m200[0m 147.718 ms - 489[0m
+[0mPOST /users/login [32m200[0m 148.516 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 446.254 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.279 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.010 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.197 ms - 158[0m
+[0mPOST /users/login [32m200[0m 147.716 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 446.127 ms - 158[0m
+[0mPOST /users/login [32m200[0m 148.375 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.040 ms - 489[0m
+[0mPOST /users/login [32m200[0m 148.211 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.059 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.628 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 447.010 ms - 158[0m
+[0mPOST /users/login [32m200[0m 147.308 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.726 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.762 ms - 489[0m
+[0mPOST /users/login [32m200[0m 146.979 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.097 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.132 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.352 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.115 ms - 489[0m
+[0mPOST /users/login [32m200[0m 147.103 ms - 489[0m
+[0mPOST /users/login [0m-[0m - ms - -[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 437.638 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 439.162 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 437.595 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 439.573 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 437.807 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 441.248 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.361 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 440.148 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.460 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.009 ms - 158[0m
+Auth failed: invalid signature
+[0mGET /users/getSkin [33m401[0m 1.633 ms - 75[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.663 ms - 158[0m
+[0mPOST /users/login [32m200[0m 147.487 ms - 489[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 445.568 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 439.454 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 437.621 ms - 158[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 437.660 ms - 158[0m
+[0mPOST /users/login [32m200[0m 148.011 ms - 489[0m
+Auth failed: invalid signature
+[0mPOST /referral/getReferralDetails [33m401[0m 1.912 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /referral/getReferralDetails [33m401[0m 2.075 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /referral/getReferralDetails [33m401[0m 1.552 ms - 75[0m
+err TypeError: Cannot read properties of null (reading 'userId')
+    at /home/ubuntu/GVerse/routes/leaderboard.route.js:13:74
+    at Layer.handle [as handle_request] (/home/ubuntu/GVerse/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/GVerse/node_modules/express/lib/router/route.js:149:13)
+    at /home/ubuntu/GVerse/node_modules/express-validation/lib/index.js:44:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[0mPOST /leaderboard [33m400[0m 147.400 ms - 97[0m
+err TypeError: Cannot read properties of null (reading 'userId')
+    at /home/ubuntu/GVerse/routes/leaderboard.route.js:13:74
+    at Layer.handle [as handle_request] (/home/ubuntu/GVerse/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/GVerse/node_modules/express/lib/router/route.js:149:13)
+    at /home/ubuntu/GVerse/node_modules/express-validation/lib/index.js:44:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[0mPOST /leaderboard [33m400[0m 147.721 ms - 97[0m
+err TypeError: Cannot read properties of null (reading 'userId')
+    at /home/ubuntu/GVerse/routes/leaderboard.route.js:13:74
+    at Layer.handle [as handle_request] (/home/ubuntu/GVerse/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/GVerse/node_modules/express/lib/router/route.js:149:13)
+    at /home/ubuntu/GVerse/node_modules/express-validation/lib/index.js:44:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[0mPOST /leaderboard [33m400[0m 147.233 ms - 97[0m
+login-err MongoServerError: E11000 duplicate key error collection: xplanet.users index: wallet_address_1 dup key: { wallet_address: null }
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/operations/insert.js:53:33
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection_pool.js:333:25
+    at /home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:207:17
+    at handleOperationResult (/home/ubuntu/GVerse/node_modules/mongodb/lib/sdam/server.js:323:20)
+    at Connection.onMessage (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:243:9)
+    at MessageStream.<anonymous> (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/connection.js:61:60)
+    at MessageStream.emit (node:events:517:28)
+    at processIncomingData (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:125:16)
+    at MessageStream._write (/home/ubuntu/GVerse/node_modules/mongodb/lib/cmap/message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12) {
+  index: 0,
+  code: 11000,
+  keyPattern: { wallet_address: 1 },
+  keyValue: { wallet_address: null },
+  [Symbol(errorLabels)]: Set(0) {}
+}
+[0mPOST /users/login [33m400[0m 438.196 ms - 158[0m
+[0mPOST /users/login [32m200[0m 624.839 ms - 482[0m
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}

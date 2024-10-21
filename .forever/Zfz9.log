@@ -1,0 +1,40 @@
+(node:74387) Warning: Accessing non-existent property 'padLevels' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+Auth failed: invalid signature
+[0mGET /users/me [33m401[0m 8.135 ms - 75[0m
+[0mPOST /users/login [32m200[0m 169.693 ms - 486[0m
+Auth failed: invalid signature
+[0mPOST /referral/getCode [33m401[0m 1.894 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /referral/getCode [33m401[0m 1.856 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /referral/postReferralCoins [33m401[0m 1.519 ms - 75[0m
+Auth failed: invalid signature
+[0mGET /users/me [33m401[0m 1.711 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /referral/postReferralCoins [33m401[0m 1.486 ms - 75[0m
+Auth failed: invalid signature
+[0mPOST /leaderboard [33m401[0m 1.485 ms - 75[0m
+[0mPOST /users/login [32m200[0m 153.053 ms - 486[0m
+[Error [ValidationError]: Validation Failed] {
+  statusCode: 400,
+  error: 'Bad Request',
+  details: { body: [ [Object] ] }
+}
+[0mPOST /leaderboard [33m422[0m 158.691 ms - 117[0m
+Auth failed: invalid signature
+[0mPOST /users/boostLevel [33m401[0m 2.001 ms - 75[0m
+err { status: 400, message: 'Not enough coins' }
+[0mPOST /users/boostLevel [33m400[0m 299.456 ms - 64[0m
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
+{"level":"error","message":"Script restart attempt #1"}
+err { status: 404 }
+[0mPOST /leaderboard [33m404[0m 320.749 ms - 86[0m
+[0mPOST /users/login [32m200[0m 154.010 ms - 486[0m
+err { status: 404 }
+[0mPOST /leaderboard [33m404[0m 298.705 ms - 86[0m
+err { status: 404 }
+[0mPOST /leaderboard [33m404[0m 296.045 ms - 86[0m
+err { status: 404 }
+[0mPOST /leaderboard [33m404[0m 297.945 ms - 86[0m
+{"level":"error","message":"Forever detected script was killed by signal: SIGKILL"}
